@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823437435484",
+    "project_id": "cinefl",
+    "storage_bucket": "cinefl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823437435484:android:1f43898c1e4c792f66fc99",
+        "android_client_info": {
+          "package_name": "com.cineflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823437435484-j55q9cdp2pcn4of2stklhiij47ns0a37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0X5vBDLjSP-6hT65xjmT2wzTGkU2iVwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823437435484-j55q9cdp2pcn4of2stklhiij47ns0a37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
